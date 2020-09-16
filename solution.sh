@@ -8,4 +8,3 @@ cat myfile
 cd ..
 cp -r mydir2 mydir3
 find . | sort -r
-git add solution.sh; git commit -m 'add solution to git'; git push origin master
